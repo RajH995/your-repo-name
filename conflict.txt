@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 line234565432
-=======
-lineone
->>>>>>> makeconflict
+
